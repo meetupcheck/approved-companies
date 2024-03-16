@@ -1,0 +1,11 @@
+{
+    "domains": [
+        "asml.com"
+    ],
+    "name": "ASML",
+    "requester": {
+        "name": "Bruno Schaatsbergen",
+        "email": "bruno@meetupcheck.io"
+    },
+    "claimed": false
+}

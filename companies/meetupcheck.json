@@ -1,0 +1,12 @@
+{
+    "domains": [
+        "meetupcheck.io"
+    ],
+    "name": "meetupcheck.io",
+    "requester": {
+        "name": "Bruno Schaatsbergen",
+        "email": "bruno@meetupcheck.io"
+    },
+    "claimed": true,
+    "policy_link": "https://meetupcheck.io/privacy"
+}
